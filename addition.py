@@ -1,3 +1,3 @@
 def addition(a,b):
-    return a + b + 1
+    return a + b
 print(addition(2,3))
